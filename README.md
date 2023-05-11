@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @tahatoy
-- 🌱 I’m currently learning .Net Mvc And Python for AI
+- 🌱 I’m currently working .Net Core , Mvc And Python for AI
